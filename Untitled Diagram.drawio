@@ -1,9 +1,236 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T09:02:47.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="23.1.2" etag="LaDCnSsk2DpSgby0hKH2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T09:43:38.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Q4Qv-M16f08mR1EGy6pq" version="23.1.2" type="github">
   <diagram name="Page-1" id="sH_05b8W89DrdHmUr_3j">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-1" target="wPT-6uPiI3xcjT0-AzXM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-5" target="wPT-6uPiI3xcjT0-AzXM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-5" value="print: You have chosen to check your password." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="120" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-8" value="&lt;h1&gt;Instructions&lt;/h1&gt;&lt;p&gt;to have a strong password follow these tips:&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;1. Your password should be at least 8 characters long and should be less that 24 characters long&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2. Your password should contain at least one number&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;3. Your password should contain at least one of these allowed symbol (space is not allowed):&amp;nbsp;!$%^&amp;amp;*()-_=+&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;4. Should contain at least one uppercase letter&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;5. Should contain at least one lowercase letter&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;6. SPACE is not allowed&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;7. Should not contain 3 consecutive letters based on the qwerty keyboard layout.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-9" target="wPT-6uPiI3xcjT0-AzXM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-9" value="print instructions" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-10" target="wPT-6uPiI3xcjT0-AzXM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-10" value="input password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-1" target="wPT-6uPiI3xcjT0-AzXM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-13" target="wPT-6uPiI3xcjT0-AzXM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-13" value="score = length of password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-14" target="wPT-6uPiI3xcjT0-AzXM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-14" value="score = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-20" target="wPT-6uPiI3xcjT0-AzXM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-20" target="wPT-6uPiI3xcjT0-AzXM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-20" value="Does the password contain at least one number" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-21" target="wPT-6uPiI3xcjT0-AzXM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-21" target="wPT-6uPiI3xcjT0-AzXM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-21" value="does the password contains at least one upper case letter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-23" target="wPT-6uPiI3xcjT0-AzXM-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-23" target="wPT-6uPiI3xcjT0-AzXM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-23" value="Does&amp;nbsp;the password contains at least one lower case letter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-24" target="wPT-6uPiI3xcjT0-AzXM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-24" target="wPT-6uPiI3xcjT0-AzXM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-24" value="Does&amp;nbsp;the password contains at least one of the allowed symbols shown" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-25" target="wPT-6uPiI3xcjT0-AzXM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-25" value="Score += 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-26" target="wPT-6uPiI3xcjT0-AzXM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-26" value="Score += 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-27" target="wPT-6uPiI3xcjT0-AzXM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-27" value="Score += 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-28" value="Score += 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-40" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-41" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-42" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-43" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-44" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-46" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-47" target="wPT-6uPiI3xcjT0-AzXM-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-47" target="wPT-6uPiI3xcjT0-AzXM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-47" value="Does the password contain at least one uppercase, one lowercase, one symbol and one digit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="780" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-49" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-50" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-51" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-52" target="wPT-6uPiI3xcjT0-AzXM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-52" value="Score += 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-54" target="wPT-6uPiI3xcjT0-AzXM-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-54" target="wPT-6uPiI3xcjT0-AzXM-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-54" value="Does the password only have uppercase and lowercase letters" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="900" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-55" target="wPT-6uPiI3xcjT0-AzXM-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-55" target="wPT-6uPiI3xcjT0-AzXM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-55" value="Does the password only have symbols" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="900" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-56" target="wPT-6uPiI3xcjT0-AzXM-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-56" target="wPT-6uPiI3xcjT0-AzXM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-56" value="Does the password only have numbers" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="900" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-59" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-65" target="wPT-6uPiI3xcjT0-AzXM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-65" value="Does it contain 3 consecutive letters from qwerty keyboard?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="900" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-66" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-67" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-68" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-69" target="wPT-6uPiI3xcjT0-AzXM-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-69" value="Score -= 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-70" target="wPT-6uPiI3xcjT0-AzXM-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-70" value="Score -= 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-71" target="wPT-6uPiI3xcjT0-AzXM-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-71" value="Score -= 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPT-6uPiI3xcjT0-AzXM-78" target="wPT-6uPiI3xcjT0-AzXM-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-78" value="Count how many sets of 3 are there" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-80" value="Score -= 5*number of sets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-85" value="Is score&amp;lt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1140" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-86" value="Is score less that 20 but greater than 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1270" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-87" value="Is score&amp;gt;20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wPT-6uPiI3xcjT0-AzXM-88" value="print password u" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
